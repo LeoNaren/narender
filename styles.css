@@ -1,0 +1,99 @@
+body {
+    background-color: antiquewhite;
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1 {
+    color: black;
+    font-family: 'Josefin Sans', cursive;
+}
+
+h2 {
+    color: teal;
+    font-family: 'Montserrat', sans-serif;
+}
+hr {
+    border-color: grey;
+    width:30%;
+}
+
+form {
+    text-decoration: none;
+}
+
+.headline {
+    background-color: aquamarine;
+    padding-top: 100px;
+    position: relative;
+}
+
+.top {
+    text-align: left;
+    background-color:silver ;
+    padding: 1%;
+    margin-top: 0.25%;
+    margin-bottom: 0.25%;
+}
+
+.middle {
+    text-align:right;
+    background-color: burlywood;
+    padding: 1%;
+    margin-top: 0.25%;
+    margin-bottom: 0.25%;
+}
+
+.contact_info {
+    text-align: center;
+    background-color: chartreuse;
+    padding: 1%;
+    margin-top: 0.25%;
+    margin-bottom: 0.25%;
+}
+
+#top-cloud {
+    position: absolute;
+    top: 50px;
+    right: 650px;
+}
+
+#bottom-cloud {
+    position: absolute;
+    bottom: 300px;
+}
+
+.profile_photo {
+    height: 212px;
+    width: 212px;
+}
+
+.programming_image {
+    display: inline-block;
+    max-width: 300px;
+    max-height: 300px;
+    height: auto;
+    width: auto;
+}
+.app_image {
+    display: inline-block;
+    max-width: 300px;
+    max-height: 300px;
+    height: auto;
+    width: auto;
+}
+.website_img {
+    display: inline-block;
+    max-height: 300px;
+    max-width: 300px;
+    height: auto;
+    width: auto;
+}
+.book_img {
+    display: inline-block;
+    max-height: 300px;
+    max-width: 300px;
+    height: auto;
+    width: auto;
+}
